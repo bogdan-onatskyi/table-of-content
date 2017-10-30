@@ -7,5 +7,5 @@ live demo: https://bogdan-onatskyi.github.io/diceware/
 
 
 ## React + Redux application
-### https://bogdan-onatskyi.github.io/table-editor/
+### https://github.com/bogdan-onatskyi/table-editor/
 live demo: https://bogdan-onatskyi.github.io/table-editor/
